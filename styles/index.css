@@ -1,0 +1,19 @@
+@import '@fontsource/pt-serif/400.css';
+@import '@fontsource/pt-serif/400-italic.css';
+@import '@fontsource/pt-serif/700.css';
+@import '@fontsource/pt-serif/700-italic.css';
+
+.slidev-layout {
+  background-color: #ffffff;
+  /* base text size; headings are rem-based and unaffected */
+  font-size: 1.4em;
+}
+
+.slidev-layout h1,
+.slidev-layout h2,
+.slidev-layout h3,
+.slidev-layout h4,
+.slidev-layout h5,
+.slidev-layout h6 {
+  font-weight: 700;
+}
