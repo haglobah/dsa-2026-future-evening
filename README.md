@@ -9,3 +9,5 @@ pnpm install
 pnpm run dev     # present
 pnpm run build   # static site in dist/
 ```
+
+Deployed to https://haglobah.github.io/dsa-2026-future-evening/ by GitHub Actions on every push to `main`.
